@@ -1,0 +1,6 @@
+{
+  "name": "FlySmart Architecture Portal",
+  "description": "Enterprise-grade high-level architecture blueprint and interactive intelligence documentation suite for the FlySmart Global Flight Intelligence Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
